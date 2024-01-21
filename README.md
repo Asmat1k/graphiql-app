@@ -27,8 +27,8 @@ The application is an interactive query testing environment with flexible editin
 - Yup
 - Jest
 - [CodeMirror](https://codemirror.net/)
-- Prettier/Eslint
-- Git hooks (commit, push)]
+- Prettier|Eslint
+- Husky|lint-staged
 - Vite
 ## Deploy
 - [Link](https://graphiql-late-comers.netlify.app/)
