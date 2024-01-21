@@ -16,6 +16,7 @@ The application is an interactive query testing environment with flexible editin
 - Error Boundary
 - Private routes
 - 404 Page
+- Responsive layout
 ## Stack
 - React
 - React Router Dom
